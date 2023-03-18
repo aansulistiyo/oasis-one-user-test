@@ -1,0 +1,37 @@
+export const ActionTypes = {
+  //Foodcourt
+  SET_FOODCOURT: "SET_FOODCOURT",
+  CLEAR_FOODCOURT: "CLEAR_FOODCOURT",
+
+  //Order
+  SET_ORDER: "SET_ORDER",
+  CLEAR_ORDER: "CLEAR_ORDER",
+
+  // Tenants
+  SET_TENANT: "SET_TENANT",
+  CLEAR_TENANT: "CLEAR_TENANT",
+
+  // Cart
+  SET_CART: "SET_CART",
+  CLEAR_CART: "CLEAR_CART",
+
+  // Menu
+  SET_MENUS: "SET_MENUS",
+  CLEAR_MENUS: "CLEAR_MENUS",
+
+  // Promo
+  SET_PROMO: "SET_PROMO",
+  CLEAR_PROMO: "CLEAR_PROMO",
+
+  // SearchBar
+  SET_TERMS: "SET_TERMS",
+  CLEAR_TERMS: "CLEAR_TERMS",
+
+  // Color
+  SET_COLOR: "SET_COLOR",
+
+  // Socket
+  SET_SOCKET: "SET_SOCKET",
+
+  SET_HOMEURL: "SET_HOMEURL",
+};
